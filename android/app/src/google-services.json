@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141553107106",
+    "project_id": "airhop-4baa7",
+    "storage_bucket": "airhop-4baa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141553107106:android:0d0c947f3dd4aff64817fb",
+        "android_client_info": {
+          "package_name": "com.mostafa.air_hop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIq-xHd-mS61DoHOdEzL_blh03jwTbfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
